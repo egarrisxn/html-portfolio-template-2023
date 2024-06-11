@@ -6,6 +6,8 @@
 
 This is a fun Portfolio Template using only HTML, CSS, & JavaScript. 
 
+![portfolio-template](https://github.com/egarrisxn/portfolio-template/assets/126130230/caff91e2-6592-49bd-a637-f2e36755f1ab)
+
 ## Technologies
 
 - HTML5
