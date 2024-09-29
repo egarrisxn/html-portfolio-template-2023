@@ -1,12 +1,12 @@
-# Portfolio Template
+# HTML Portfolio Template
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/portfolio-template) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/portfolio-template)
 
 ## Overview
 
-This is a fun Portfolio Template using only HTML, CSS, & JavaScript. 
+This is a beautiful little portfolio template using only HTML, CSS, & JavaScript. 
 
-![portfolio-template](https://github.com/egarrisxn/portfolio-template/assets/126130230/caff91e2-6592-49bd-a637-f2e36755f1ab)
+![og](https://github.com/user-attachments/assets/594e65b4-6b33-4024-921a-b4e223d3579e)
 
 ## Technologies
 
