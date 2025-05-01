@@ -8,6 +8,8 @@
 
 This is a beautiful little portfolio template using only HTML, CSS, & JavaScript. 
 
+Note: This project was originally inspired by some open-source work I came across. Unfortunately, I didn’t note the original author at the time. If you believe it was your work, please feel free to reach out — I’d love to give proper credit and express my thanks!
+
 ## Technologies
 
 - HTML5
@@ -15,10 +17,22 @@ This is a beautiful little portfolio template using only HTML, CSS, & JavaScript
 - JavaScript
 - GitHub Pages
 
+## Contributing
+
+Contributions are welcome! If you have ideas for new themes, features, or improvements, please submit issues or pull requests.
+
+## Feedback
+
+I welcome feedback! If you have any suggestions, feature requests, or encounter any issues, please [open an issue](https://github.com/egarrisxn/html-portfolio-template-2023/issues) on GitHub.
+
 ## License
 
-This project is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Questions
 
-Feel free to reach out to me via [GitHub](https://github.com/EGARRISXN), or email at egarrisxn@gmail.com.
+Questions? Reach out to me via:
+
+- **GitHub:** [https://github.com/egarrisxn](https://github.com/egarrisxn)
+
+- **Email:** egarrisxn@gmail.com
